@@ -1,2 +1,2 @@
 # Presentations
-List of my presentations
+List of my presentations, mostly talks.
